@@ -43,7 +43,7 @@ ol {
   align-items: flex-end;
   gap: 30px;
   width: 100%;
-  padding: 130px 30px;
+  padding: 134px 30px;
 }
 
 .result {
@@ -52,6 +52,7 @@ ol {
   flex-direction: column;
   gap: 16px;
   height: 456px;
+  margin-bottom: 4px;
 }
 
 .result__video {
@@ -100,7 +101,7 @@ ol {
   gap: 22px;
   justify-content: end;
   padding-top: 5px;
-  margin-bottom: -4px;
+
 }
 
 .content__video-card {
