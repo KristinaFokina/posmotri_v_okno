@@ -52,8 +52,6 @@ ol {
   display: flex;
   flex-direction: column;
   gap: 16px;
-  height: 456px;
-  margin-bottom: 4px;
 }
 
 .result__video {
