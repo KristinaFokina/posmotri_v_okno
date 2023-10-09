@@ -80,18 +80,6 @@ ol {
   position: relative;
 }
 
-.content__list::-webkit-scrollbar {
-  display: none;
-}
-
-/* Скрываем scrollbar для IE, Edge и Firefox */
-.content__list {
-  -ms-overflow-style: none;
-  /* IE и Edge */
-  scrollbar-width: none;
-  /* Firefox */
-}
-
 .content__details {
   width: 399px;
   height: 534px;
@@ -99,8 +87,6 @@ ol {
   flex-direction: column;
   gap: 22px;
   justify-content: end;
-
-
 }
 
 .content__video-card {
